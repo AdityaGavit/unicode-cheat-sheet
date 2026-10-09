@@ -356,6 +356,4 @@
 
 ---
 
-This repository serves as a static, offline reference. If you prefer a web-based UI with instant search, category filtering, and one-click copying, you can use the live directory at [SymbolHut.com](https://symbolhut.com).
-
 _Data derived from the official Unicode Character Database. Copyright © Unicode, Inc._
