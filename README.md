@@ -1,5 +1,6 @@
 # Unicode Cheat Sheet
 
+## All Unicode Blocks
 - [Basic Latin](./blocks/Basic_Latin.md) (`U+0000` - `U+007F`)
 - [Latin-1 Supplement](./blocks/Latin_1_Supplement.md) (`U+0080` - `U+00FF`)
 - [Latin Extended-A](./blocks/Latin_Extended_A.md) (`U+0100` - `U+017F`)
